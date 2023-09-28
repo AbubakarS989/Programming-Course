@@ -1,0 +1,10 @@
+1: Write a program that add two characters and display their result sum on the screen.
+2: Write a program that displays value of character variable grade.
+3: Write a program that displays the value stored in a string variable name.
+4: Write a program that display the following output using single printf statement.
+*
+***
+*****
+******
+*******
+5: Write a program that displays the name of a person right-justified and address left- justified by using 25 character spaces for each .
