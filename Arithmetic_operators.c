@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main(){
 
-    double name = 34.3476;
-    printf("%lf", name);
+    unsigned long a=3434;
+    printf("%d",a);
+        
 
 
 }
