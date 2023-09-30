@@ -18,5 +18,5 @@ int main(){
     var%=5; // modulus 5 to var -> var=var%5
     
                
-
+                               
 }
