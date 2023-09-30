@@ -18,5 +18,6 @@ int main(){
     var%=5; // modulus 5 to var -> var=var%5
     
                
-                               
+ double name=34.3434;
+ printf("%f",name);
 }
