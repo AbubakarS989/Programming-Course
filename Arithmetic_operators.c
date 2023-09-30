@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main(){
 
-    int number;
-    printf("Enter your number");
-    scanf("%d",&number);
+    double name = 34.3476;
+    printf("%lf", name);
+
+
 }
