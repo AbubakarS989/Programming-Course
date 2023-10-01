@@ -1,9 +1,10 @@
 #include<stdio.h>
 int main(){
 
-    unsigned long a=3434;
-    printf("%d",a);
-        
+    int a = 1;
+    a=a--;
+printf("A is :%d",a);
+
 
 
 }
