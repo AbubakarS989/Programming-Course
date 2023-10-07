@@ -4,6 +4,6 @@
     // a=23;
     // b=32;
     // printf
-printf("helo world");
+printf("hello world");
   }
   
