@@ -20,24 +20,6 @@ int main(){
 // printf("Sum is %d\n",a%b);
 // printf("Sum is %d\n",reminder);
 
-int a , b,c;
-printf("Enter number 1:");
-scanf("%d",&a);
-printf("Enter number 2:");
-scanf("%d",&b);
-printf("Enter number 3:");
-scanf("%d",&c);
-int max=a;
-if (max<b){
-    max=b;
-}
-if (max<c){
-    max=c;
-
-}
-
-
-printf("Max is %d",max);
 
 
 
