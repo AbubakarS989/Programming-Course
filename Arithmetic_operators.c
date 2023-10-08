@@ -7,18 +7,18 @@ int main(){
 // 2: Display Reminder
 // 3: do modulus  with result of sum and 1st input number 
 
-// int a,b,reminder,sum;
+int a,b,reminder,sum;
 
-// printf("enter no 1:",a);
-// scanf("%d",&a);
-// printf("enter no 2:",b);
-// scanf("%d",&b);
-// sum=a+b;
-// reminder=a%sum;
+printf("enter no 1:",a);
+scanf("%d",&a);
+printf("enter no 2:",b);
+scanf("%d",&b);
+sum=a+b;
+reminder=a%10;
 
-// printf("Sum is %d\n",sum);
+printf("Sum is %d\n",sum);
 // printf("Sum is %d\n",a%b);
-// printf("Sum is %d\n",reminder);
+printf("reminder is %d\n",reminder);
 
 
 
