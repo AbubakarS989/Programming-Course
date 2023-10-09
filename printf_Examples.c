@@ -10,8 +10,8 @@ int main(){
 // Example 2:
 // Print value
 
-    int height=23;
-    printf("The height of wall: %dn\n",height);
+    int length=23;
+    printf("The length of pipe is : %dn\n",length);
 
 
 // Example 2:
@@ -20,7 +20,7 @@ int main(){
     float height=5.8;
     char grade='A';
 
-    printf("My height is %f\n My score is %d\n My Grade is %c\n",height,score,grade);
+    printf("My height is %f\nMy score is %d\nMy Grade is %c\n",height,score,grade);
     
 
 
