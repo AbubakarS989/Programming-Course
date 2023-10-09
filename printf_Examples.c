@@ -26,8 +26,25 @@ int main(){
     // My score is 10
     // My Grade is A    
 
+
 //Note: If we write variables not in the oder of writing format specifier then output is also display in different oder.
 // As I write %f for height and %d for score, if I replace %d and %f, then our output is different .
 // So be conscious while writing.
+
+
+//Example 4:
+// print Design 
+
+// *
+// **
+// ***
+// ****
+// *****
+// ******
+
+printf("*\n**\n***\n****\n*****\n******\n");
+
+
+
 
 }
