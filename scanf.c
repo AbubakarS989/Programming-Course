@@ -31,10 +31,4 @@ int main(){
     printf("Enter a your name:");
     scanf("%s",&name);
 
-
-
-
-
-
-
 }
