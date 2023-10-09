@@ -12,22 +12,24 @@ int main(){
 // Example 2:
 // Take float
 
-    int length=23;
-    printf("The length of pipe is : %d Meter\n",length);
-
+    float value;
+    printf("Enter a float value:");
+    scanf("%f",&value);
 
 // Example 3:
-// Take char
-    int score=10;
-    float height=5.8;
-    char grade='A';
-
-    printf("My height is %f\nMy score is %d\nMy Grade is %c\n",height,score,grade);
-
+// Take character
+    
+    char character;
+    printf("Enter a character:");
+    scanf("%c",&character);
 
 
 //Example 4:
 // Take string 
+    
+    char name[50];
+    printf("Enter a your name:");
+    scanf("%s",&name);
 
 
 
