@@ -2,7 +2,9 @@
 int main()
 {
 
-// TODO Write a program that compare two relational expression using all Operator, to check if both expression result is true or not.
+// Total Programs is 2.
+
+// TODO  1:Write a program that compare two relational expression using all Operator, to check if both expression result is true or not.
 
 
 
@@ -57,5 +59,23 @@ else
 // Expression is False
 
 
+// TODO 2: Write a program that use all operators in single if statement.
+
+int  var1,var2;
+var1=20;
+var2=30;
+
+if(value1==20 && var2>22 || var1<12 ||  !(var2==var1))
+{
+    printf("Expression is true\n");
+}
+else
+{
+    printf("Expression is False\n");
+ 
+}
+
+// Output
+// Expression is true
 
 }
