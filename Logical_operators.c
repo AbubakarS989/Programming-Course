@@ -19,8 +19,10 @@ if (number1>=10 && number2<20)
 }
 else
 {
-    printf("Both expression is true\n");
+    printf("Expression is False\n");
 }
+//Output
+// Expression is False
 
 // OR Operator
 
@@ -34,7 +36,26 @@ if(number1>10 || number2==20)
 }
 else
 {
+    printf("Expression is False\n");
+}
+//Output
+// Both expression is true
+
+// NOT Operator
+int score1,score2;
+score1=10;
+score2=20;
+if((score1>15) && !(score2==20))
+{
     printf("Both expression is true\n");
 }
+else
+{
+    printf("Expression is False\n");
+}
+//Output
+// Expression is False
+
+
 
 }
