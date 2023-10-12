@@ -1,12 +1,16 @@
 #include<stdio.h>
 int main(){
- 
+//  Relational Operators
+
+
+//  Relational Operators used in variables
     int a,b,c;
     a=10,b=23;
     c=a<=b;
     printf("%d",c);
 
 
+//  Relational Operators used in conditional statements
 
     //  Greater  than 
     if(a>b)
