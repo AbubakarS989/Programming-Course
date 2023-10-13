@@ -4,7 +4,7 @@ int main()
 
 // Total Programs is 2.
 
-// TODO  1:Write a program that compare two relational expression using all Operator, to check if both expression result is true or not.
+// TODO  1:Write a program that compare two relational expression using all Operator, to check if both expression result is true or not.    
 
 
 
@@ -32,7 +32,7 @@ int value1,value2;
 value1=10;
 value2=20;
 
-if(number1>10 || number2==20)
+if(value1>10 || value2==20)
 {
     printf("Both expression is true\n");
 }
@@ -59,7 +59,7 @@ else
 // Expression is False
 
 
-// TODO 2: Write a program that use all operators in single if statement.
+// TODO 2: Write a program that use all operators in single if condition.
 
 int  var1,var2;
 var1=20;
