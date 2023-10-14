@@ -4,6 +4,7 @@ int main(){
 
 //  String input and output function
 // Gets  functions
+// gets function act as a scanf function in a string
 
 
 
@@ -12,6 +13,7 @@ int main(){
 
 
 // puts  functions
+// gets function act as a printf function in a string
 
 
 
